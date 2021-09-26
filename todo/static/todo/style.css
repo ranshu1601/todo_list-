@@ -37,3 +37,13 @@ h1{
     font-weight: 600;
     color: rgb(209, 66, 66);
 }
+.screen-center{
+    position:absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.width-kam{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
