@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 213, 231);
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    background-color: rgb(255, 168, 180)!important;
+    padding: 20px 0pc;
+}
+.navbar-brand{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    margin-left: 10px;
+}
+.to-align{
+    vertical-align: baseline;
+}
+.btn-primary{
+    background-color: rgb(255, 169, 169);
+    color: rgb(153, 51, 51);
+    border:0ch;
+    font-weight: 600;
+    padding: 10px 15px;
+}
+.btn-primary:hover{
+    background-color: rgb(255, 133, 144);
+    color: rgb(255, 240, 240);
+}
+.btn{
+    padding: 10px 15px;
+}
+.neeche-kro{
+    margin-top: 20px;
+}
+/* Simply you todo */
+h1{
+    font-weight: 600;
+    color: rgb(209, 66, 66);
+}
